@@ -1,0 +1,1 @@
+sudo softwareupdate --ignore "macOS big sur"
